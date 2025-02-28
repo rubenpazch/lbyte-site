@@ -27,4 +27,5 @@ require (
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20250224032326-8029694c1696 // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20250224032326-8029694c1696 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
+	github.com/zeon-studio/hugoplate v0.0.0-20250224110203-fc34a4a17686 // indirect
 )

@@ -46,3 +46,7 @@ github.com/gethugothemes/hugo-modules/videos v0.0.0-20250224032326-8029694c1696 
 github.com/gethugothemes/hugo-modules/videos v0.0.0-20250224032326-8029694c1696/go.mod h1:P722lLWdnNhdZVq6gvMrOLqECUwrAYQWaOWlChta5H0=
 github.com/hugomods/mermaid v0.1.4 h1:/u0FZRSBMpqTbDh4XPBL7c6p0DUjvIkoo9cC89GASSI=
 github.com/hugomods/mermaid v0.1.4/go.mod h1:GOID2Ko1vdrX03ZMaFNQL/vdTU1tZmGcVjOgBN8O42Y=
+github.com/zeon-studio/hugoplate v0.0.0-20250223033942-a028ddccd6e2 h1:Norh4AYxZtIugm4iglykN3YGdaZQ591wz5/8r3Q3hTI=
+github.com/zeon-studio/hugoplate v0.0.0-20250223033942-a028ddccd6e2/go.mod h1:YlRIwdTWidquf1dhtx+mDfu0I3KVrVQB4wi4UmHlK3E=
+github.com/zeon-studio/hugoplate v0.0.0-20250224110203-fc34a4a17686 h1:D2ud3LF7qtuxiTPiZWU4Wtam8zujhoiNKs07s02xYok=
+github.com/zeon-studio/hugoplate v0.0.0-20250224110203-fc34a4a17686/go.mod h1:YlRIwdTWidquf1dhtx+mDfu0I3KVrVQB4wi4UmHlK3E=
