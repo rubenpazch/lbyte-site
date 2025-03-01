@@ -1,3 +1,9 @@
+################ Spanish language ##################
+[es]
+languageName = "Es"
+languageCode = "es-pe"
+contentDir = "content/spanish"
+weight = 1
 ################ English language ##################
 [en]
 languageName = "En"
