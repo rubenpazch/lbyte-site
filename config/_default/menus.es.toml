@@ -7,15 +7,9 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Sobre Nosotros"
-url = "/about"
-weight = 2
-
-[[main]]
 name = "Blog"
 url = "/blog"
 weight = 3
-
 
 # footer menu
 [[footer]]
