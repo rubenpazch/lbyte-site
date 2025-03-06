@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "¡A programar!"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/blog"
 
 # Features
 features:
@@ -15,14 +15,14 @@ features:
     image: "/images/service-1.png"
     content: "Exploremos algunos conceptos de javascript"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Weather App"
+      - "Chat App"
+      - "Music Player"
+      - "Quiz"
+      - "Blogging App"
+      - "To-Do list"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "¡Empezar!"
+      link: "/categories/javascript/"
 ---

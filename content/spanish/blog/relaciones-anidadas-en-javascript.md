@@ -1,12 +1,12 @@
 ---
-title: "Clonar la web del el comercio"
-meta_title: "Clonar la web del el comercio"
-description: "Clonar la web del el comercio"
-date: 2025-01-03T05:00:00Z
+title: "Relaciones Anidadas"
+meta_title: "Relaciones Anidadas en Javascript, Recursividad"
+description: "Relaciones Anidadas en Javascript"
+date: 2025-06-03T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["HTML", "CSS"]
+categories: ["Javascript"]
 author: "Ruben Paz"
-tags: ["nextjs", "tailwind"]
+tags: ["javascript", "recursividad", "articulos"]
 draft: false
 ---
 
