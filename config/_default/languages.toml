@@ -4,9 +4,3 @@ languageName = "Es"
 languageCode = "es-pe"
 contentDir = "content/spanish"
 weight = 1
-################ English language ##################
-[en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
