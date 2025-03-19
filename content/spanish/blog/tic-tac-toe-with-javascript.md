@@ -3,11 +3,11 @@ Tic-Tac-Toe es un juego de dos jugadores que alternan turnos para colocar sus ma
 
 #### 📋 Reglas del Juego
 
-Se juega en un tablero de 3x3.
-Dos jugadores alternan turnos: Jugador 1 ("X") y Jugador 2 ("O").
-Un jugador gana si coloca tres de sus marcas en línea (horizontal, vertical o diagonal).
-El juego termina en empate si el tablero se llena sin un ganador.
-No se permite colocar una marca en una casilla ya ocupada.
+1. Se juega en un tablero de 3x3.
+2. Dos jugadores alternan turnos: Jugador 1 ("X") y Jugador 2 ("O").
+3. Un jugador gana si coloca tres de sus marcas en línea (horizontal, vertical o diagonal).
+4. El juego termina en empate si el tablero se llena sin un ganador.
+5. No se permite colocar una marca en una casilla ya ocupada.
 
 ### 📌 Algoritmo para Implementar el Juego
 
@@ -42,4 +42,5 @@ Un jugador gana si:
 1. Si hay un ganador, anunciarlo y finalizar el programa.
 2. Si hay empate, mostrar un mensaje y finalizar.
 
-### 📌 Implementación en Código (Python)
+### 📌 Implementación en Código (Javascript)
+
