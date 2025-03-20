@@ -320,6 +320,15 @@
       "zoomable"
     ],
     "ids": [
+      "-algoritmo-para-implementar-el-juego",
+      "-análisis-del-problema",
+      "-codigo-fuente",
+      "-implementación-en-código-javascript",
+      "-reglas-del-juego",
+      "1-inicialización",
+      "2-bucle-principal-del-juego",
+      "3-comprobación-de-ganador",
+      "4-fin-del-juego",
       "TableOfContents",
       "accordions",
       "blockquote",

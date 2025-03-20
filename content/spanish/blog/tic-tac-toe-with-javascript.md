@@ -1,3 +1,16 @@
+---
+title: "Tic Tac Toe with javascript + HTML basic usacase"
+meta_title: "Tic Tac Toe with javascript + HTML basic usacase"
+description: "Tic-Tac-Toe es un juego de dos jugadores que alternan turnos para colocar sus marcas ('X' o 'O') en una cuadrícula de 3x3. El objetivo es lograr tres en línea (horizontal, vertical o diagonal) antes que el oponente."
+date: 2022-03-19T05:00:00Z
+image: "/images/tic-tac-toe.png"
+categories: ["Juegos", "Javscript", "HTML"]
+author: "LBYTE"
+tags: ["javascript", "html"]
+draft: false
+---
+
+
 ### 📌 Análisis del Problema
 Tic-Tac-Toe es un juego de dos jugadores que alternan turnos para colocar sus marcas ("X" o "O") en una cuadrícula de 3x3. El objetivo es lograr tres en línea (horizontal, vertical o diagonal) antes que el oponente.
 
@@ -44,3 +57,51 @@ Un jugador gana si:
 
 ### 📌 Implementación en Código (Javascript)
 
+1. Crear una matriz de 3x3 vacía para representar el tablero.
+
+    * crear un folder desde el navegador de archivos o usando la terminal 
+
+        ```
+        mkdir NOMBRE_DEL_FOLDER
+        ```
+    * navegar al tu proyecto y crear un archivo html
+        ```
+        touch index.html
+        ```
+    
+        ```html
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Tic-Tac-Toe</title>
+        </head>
+        <body>
+            <h1>Tic-Tac-Toe</h1>
+            <div class="board" id="board"></div>
+            <p id="status"></p>
+            <button>Reiniciar</button>
+        </body>
+        </html>
+
+        ```
+
+    * creamos el archivo de javascript
+    ```
+    touch scripts.js
+    ```
+
+
+
+### 📌 Codigo Fuente
+
+* Para ver el codigo fuente del ejercicio visita el siguiente link
+
+   https://github.com/rubenpazch/tic-tac-toe-with-js.git 
+
+* Para clonar el proyecto en github
+
+    ```
+    git clone https://github.com/rubenpazch/tic-tac-toe-with-js.git
+    ```
