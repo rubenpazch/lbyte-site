@@ -1,12 +1,12 @@
 ---
-title: "Relaciones Anidadas"
-meta_title: "Relaciones Anidadas en Javascript, Recursividad"
-description: "Relaciones Anidadas en Javascript"
-date: 2025-06-03T05:00:00Z
+title: "How to build an Application with modern Technology"
+meta_title: ""
+description: "this is meta description"
+date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Javascript"]
-author: "Ruben Paz"
-tags: ["javascript", "recursividad", "articulos"]
+categories: ["Application", "Data"]
+author: "John Doe"
+tags: ["nextjs", "tailwind"]
 draft: false
 ---
 
