@@ -84,7 +84,7 @@ maxAge = "720h"
 unsafe = true
 
 [markup.highlight]
-style = 'perldoc' # see https://xyproto.github.io/splash/docs/all.html
+style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
 lineNumbersInTable = true
 
 [markup.tableOfContents]
