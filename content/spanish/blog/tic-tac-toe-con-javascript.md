@@ -1,6 +1,6 @@
 ---
-title: Tic Tac Toe with javascript + HTML basic usacase
-meta_title: Tic Tac Toe with javascript + HTML basic usacase
+title: Tic Tac Toe con javascript + HTML caso de uso basico
+meta_title: Tic Tac Toe con javascript + HTML caso de uso basico
 description: Tic-Tac-Toe es un juego de dos jugadores que alternan turnos para colocar sus marcas ('X' o 'O') en una cuadrícula de 3x3. El objetivo es lograr tres en línea (horizontal, vertical o diagonal) antes que el oponente.
 date: 2022-03-19T05:00:00.000Z
 image: /images/tic-tac-toe.png
@@ -98,10 +98,18 @@ touch index.html
 </html>
 ```
 
-{{< notice "Notas" >}}
-Hemos definido el titulo del juego haciendo uso de la etiqueta **h1**, luego tenemos
+{{< notice "Sobre las etiquetas" >}}
+Hemos definido los siguientes elementos dentro de nuestro codigo HTML:
+* un titulo para nuestro juego dentro de la etiqueta **h1**
+* nuestro tablero de juego dentro de la etiqueta **div** identificado con el **id="tablero"** y con la clase de estilos **class="tablero"** que lo explicaremos mas abajo
+* el estado que mostrara el turno del jugador actual dentro de una etiqueta **p**
+* el boton que nos permitira reiniciar el juego
 {{< /notice >}}
 
+
+{{< notice "Sobre los archivos externos" >}}
+Tomar en cuenta que usamos las etiquetas **link** y **script** para importar recursos externos como son el archivo de estilos y el archivos de javascript, se espera que el archivo de estilos este localizado dentro de la etiqueta **head** dado que el navegador cargue y aplique los estilos antes de renderizar el contenido. 💡 [quiero saber mas](/blog/ubicacion-estilos-scripts-en-html/).
+{{< /notice >}}
 
 creamos el archivo de javascript
 

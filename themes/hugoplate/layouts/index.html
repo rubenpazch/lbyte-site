@@ -62,7 +62,15 @@
           {{ range .bulletpoints }}
           <li class="relative mb-4 pl-6">
             <i class="fa fa-check absolute left-0 top-1.5"></i>
-            {{ . | markdownify }}
+            {{ if .link }}
+            <a href="{{ .link | absURL }}" class="hover:text-primary hover:font-bold hover:underline transition duration-300">
+              {{ .text | markdownify }}
+            </a>
+            {{ else if .text }}
+            <span>{{ .text | markdownify }}</span>
+            {{ else }}
+            <span>{{ . | markdownify }}</span>
+            {{ end }}
           </li>
           {{ end }}
         </ul>

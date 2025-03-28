@@ -15,12 +15,12 @@ features:
     image: "/images/service-1.png"
     content: "Exploremos algunos conceptos de javascript"
     bulletpoints:
-      - "Weather App"
-      - "Chat App"
-      - "Music Player"
-      - "Quiz"
-      - "Blogging App"
-      - "To-Do list"
+      - text: "Tic-Tac-Toe"
+        link: "/blog/tic-tac-toe-with-javascript/"
+      - text: "Calculator (Soon)"
+        link: 
+      - text: "To-Do List (Soon)"
+        link: 
     button:
       enable: true
       label: "¡Empezar!"
