@@ -1,1 +1,3 @@
-{{ range .Widgets }} {{ partial ( print "widgets/" . ) $.Scope }} {{ end }}
+{{ range .Widgets }}
+  {{ partial ( print "widgets/" . ) $.Scope }}
+{{ end }}

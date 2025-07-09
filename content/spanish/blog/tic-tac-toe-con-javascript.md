@@ -124,7 +124,6 @@ const tablero = document.getElementById("tablero");
 const estado = document.getElementById("estado");
 let celdas = [];
 let jugadorActual = "X";
-let juegoActivado = true;
 
 function crearTablero() {
     tablero.innerHTML = "";
@@ -134,7 +133,7 @@ function crearTablero() {
         celda.classList.add("celda");
         celda.dataset.index = i;
         tablero.appendChild(celda);
-        celdas.push(cell);
+        celdas.push(celda);
     }
     estado.textContent = `Turno de ${jugadorActual}`;
 }
